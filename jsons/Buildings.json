@@ -2,7 +2,7 @@
 	{
 		"name": "Holodeck",
 		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "Zeph",
 		"cost": 480,
 		"happiness": 12,
 		"culture": 12,
@@ -15,7 +15,7 @@
 	{
 		"name": "Breeders",
 		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "Zeph",
 		"cost": 80,
 		"hurryCostModifier": 160,
 		"happiness": 2,
