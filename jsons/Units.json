@@ -2,7 +2,7 @@
 	{
 		"name": "Phasers",
 		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "Zeph",
 		"replaces": "Machine Gun",
 		"movement": 2,
 		"strength": 90,
