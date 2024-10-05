@@ -1,38 +1,35 @@
 [
-	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
-		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
-		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
-		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+        {
+                "name": "Zeph",
+                "leaderName": "Ze",
+                "adjective": ["Zephyrian"], 
+                "startBias": ["Tundra"],
+                "preferredVictoryType": "Domination", 
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+                "startIntroPart1": "Greetings from Ze, the Great Toe Collector of Zeph! Our people have long sought out the rarest and most valuable toes in the world...", 
+                "startIntroPart2": "...Prepare yourself, for the toe hunt begins now!",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
-	}
+                "declaringWar": "Your toes will be added to our collection! Prepare to be defeated!",
+                "attacked": "You think you can stop our toe crusade? How amusing!", 
+                "defeated": "Toes...toes...toes...", 
+                "introduction": "We are the Zephyrians, here to claim what is rightfully ours: your toes!", 
+
+                "neutralHello": "Have you come to offer your toes in tribute?",
+                "neutralLetsHearIt": ["Go on.", "Spit it out!", "Let's hear it."],
+                "neutralNo": ["Unacceptable!", "We refuse your defiance!", "You will regret this."], 
+                "neutralYes": ["Wise choice.", "A wise decision.", "Excellent. Your toes will be added to the collection."],
+
+                "hateHello": "What do you want, you toe-less wonder?", 
+                "hateLetsHearIt": ["Speak quickly!", "Out with it!", "Make your plea."], 
+                "hateNo": ["Then you leave us no choice!", "You dare defy us?!", "You misunderstand our generosity."], 
+                "hateYes": ["Hmph. Very well.", "This better be good.", "Fine. We'll humor you."], 
+
+                "afterPeace": "Finally, some peace and quiet to sort through our toe collection.", 
+                "tradeRequest": "We, the mighty Zeph, extend this trade offer to you.",
+
+                "outerColor": [100, 41, 201],
+                "innerColor": [0, 241, 61],
+                "unique": "MANIFEST_DESTINY", 
+                "cities": ["Toetropolis", "Phalanx", "Tarsopolis", "Metatarsalia", "Hallux Haven", "Little Toe Village", "Bunyan's Borough", "Ingrown Inlet", "Nailton", "Talus Territory"] 
+        }
 ]
