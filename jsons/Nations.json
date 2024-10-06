@@ -5,6 +5,7 @@
                 "adjective": ["Zephyrian"], 
                 "startBias": ["Tundra"],
                 "preferredVictoryType": "Domination", 
+                "personality": "Ze",
 
                 "startIntroPart1": "Greetings from Ze, the Great Toe Collector of Zeph! Our people have long sought out the rarest and most valuable toes in the world...", 
                 "startIntroPart2": "...Prepare yourself, for the toe hunt begins now!",
