@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Ze",
+    "production": 11,
+    "food": 4,
+    "gold": 7,
+    "science": 4,
+    "culture": 3,
+    "happiness": 6,
+    "faith": 5,
+    "military": 8,
+    "aggressive": 5,
+    "declareWar": 3,
+    "commerce": 5,
+    "diplomacy": 7,
+    "loyal": 8,
+    "expansion": 4,
+    "priorities": {
+      "Tradition": 8,
+      "Liberty": 5,
+      "Honor": 6,
+      "Commerce": 1,
+      "Patronage": 7,
+      "Piety": 10,
+      "Exploration": 7,
+      "Rationalism": 4,
+      "Aesthetics": 2,
+      "Freedom": 2,
+      "Autocracy": 9,
+      "Order": 3
+      
+    }
+  }
+]
