@@ -16,19 +16,18 @@
     "loyal": 8,
     "expansion": 4,
     "priorities": {
-      "Tradition": 8,
+      "Tradition": 7,
       "Liberty": 5,
       "Honor": 6,
       "Commerce": 1,
-      "Patronage": 7,
+      "Patronage": 6,
       "Piety": 10,
-      "Exploration": 7,
+      "Exploration": 8,
       "Rationalism": 4,
       "Aesthetics": 2,
       "Freedom": 2,
       "Autocracy": 9,
       "Order": 3
-      
     }
   }
 ]
