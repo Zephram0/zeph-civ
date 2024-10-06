@@ -34,7 +34,7 @@
 		"uniques": ["May choose [2] additional belief(s) of any type when [enhancing] a religion",
                 "May choose [1] additional [Enhancer] beliefs when [founding] a religion",
                 "May choose [1] additional [Pantheon] beliefs when [founding] a religion",
-                "[+1 Faith] [in all cities]",
+                "[+1 Faith] [in all cities]"],
                 "cities": ["Toetropolis", "Phalanx", "Tarsopolis", "Metatarsalia", "Hallux Haven", "Little Toe Village", "Bunyan's Borough", "Ingrown Inlet", "Nailton", "Talus Territory"] 
         }
 ]
