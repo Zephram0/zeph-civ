@@ -6,28 +6,28 @@
     "gold": 7,
     "science": 5,
     "culture": 5,
-    "happiness": 8,
+    "happiness": 10,
     "faith": 10,
     "military": 12,
     "aggressive": 9,
     "declareWar": 7,
     "commerce": 5,
     "diplomacy": 7,
-    "loyal": 8,
+    "loyal": 4,
     "expansion": 9,
     "priorities": {
-      "Tradition": 6,
-      "Liberty": 6,
-      "Honor": 6,
+      "Tradition": 12,
+      "Liberty": 2,
+      "Honor": 2,
       "Commerce": 1,
-      "Patronage": 10,
-      "Piety": 9,
+      "Patronage": 8,
+      "Piety": 13,
       "Exploration": 11,
       "Rationalism": 4,
       "Aesthetics": 2,
-      "Freedom": 12,
-      "Autocracy": 12,
-      "Order": 12
+      "Freedom": 9,
+      "Autocracy": 9,
+      "Order": 9
     }
   }
 ]
