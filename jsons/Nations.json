@@ -3,7 +3,7 @@
                 "name": "Zeph",
                 "leaderName": "Ze",
                 "adjective": ["Zephyrian"], 
-                "startBias": ["Tundra"],
+                "startBias": ["Tundra", "Coast"],
                 "preferredVictoryType": "Domination", 
                 "personality": "Ze",
 
@@ -30,7 +30,8 @@
 
                 "outerColor": [100, 41, 201],
                 "innerColor": [0, 241, 61],
-                "unique": "MANIFEST_DESTINY", 
+                "uniqueName": "Masters of Faith",
+		"uniques": ["May choose [1] additional belief(s) of any type when [founding] a religion"],
                 "cities": ["Toetropolis", "Phalanx", "Tarsopolis", "Metatarsalia", "Hallux Haven", "Little Toe Village", "Bunyan's Borough", "Ingrown Inlet", "Nailton", "Talus Territory"] 
         }
 ]
