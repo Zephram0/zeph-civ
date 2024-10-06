@@ -3,8 +3,8 @@
                 "name": "Zeph",
                 "leaderName": "Ze",
                 "adjective": ["Zephyrian"], 
-                "startBias": ["Tundra", "Coast"],
-                "preferredVictoryType": "Domination", 
+                "startBias": ["Tundra"],
+                "preferredVictoryType": "Neutral", 
                 "personality": "Ze",
 
                 "startIntroPart1": "Greetings from Ze, the Great Toe Collector of Zeph! Our people have long sought out the rarest and most valuable toes in the world...", 
