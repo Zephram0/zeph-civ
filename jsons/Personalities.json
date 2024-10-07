@@ -14,7 +14,7 @@
     "commerce": 6,
     "diplomacy": 4,
     "loyal": 5,
-    "expansion": 8,
+    "expansion": 5,
     "uniques": ["Will not build [Settler] <when number of [military units] is less than [6]>"],
     "priorities": {
       "Tradition": 5,
