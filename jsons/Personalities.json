@@ -7,7 +7,7 @@
     "science": 5,
     "culture": 5,
     "happiness": 9,
-    "faith": 11,
+    "faith": 4,
     "military": 15,
     "aggressive": 6,
     "declareWar": 7,
@@ -15,7 +15,7 @@
     "diplomacy": 7,
     "loyal": 7,
     "expansion": 5,
-    "uniques": ["Will not build [Missionary] <before the [Renaissance era]>"],
+    "uniques": ["Will not build [Settler] <in cities with less than [4] [Population]>"],
     "priorities": {
       "Tradition": 12,
       "Liberty": 2,
