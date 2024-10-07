@@ -13,7 +13,7 @@
     "declareWar": 6,
     "commerce": 6,
     "diplomacy": 4,
-    "loyal": 5,
+    "loyal": 8,
     "expansion": 6,
     "uniques": ["Will not build [Settler] <when number of [military units] is less than [6]>"],
     "priorities": {
