@@ -6,7 +6,7 @@
 		"replaces": "Great Prophet",
 		"uniques": [
       "Can instantly construct a [Holy site] improvement <by consuming this unit> <if it hasn't used other actions yet>",
-			"Gain a free [] belief <once> <if it hasn't used other actions yet> <after enhancing a religion>",
+			"Gain a free [non-[Founder]] belief <once> <if it hasn't used other actions yet> <after enhancing a religion>",
       "Can Spread Religion <for [1] movement> <[4] times> <after which this unit is consumed>",
 			"Removes other religions when spreading religion",
       "May found a religion <by consuming this unit> <if it hasn't used other actions yet>",
