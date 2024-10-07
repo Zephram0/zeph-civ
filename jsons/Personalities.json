@@ -10,11 +10,11 @@
     "faith": 4,
     "military": 15,
     "aggressive": 12,
-    "declareWar": 7,
+    "declareWar": 12,
     "commerce": 7,
     "diplomacy": 7,
     "loyal": 7,
-    "expansion": 3,
+    "expansion": 8,
     "uniques": ["Will not build [Settler] <when number of [military units] is less than [6]>"],
     "priorities": {
       "Tradition": 12,
