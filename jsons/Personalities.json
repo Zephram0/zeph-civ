@@ -15,7 +15,7 @@
     "diplomacy": 7,
     "loyal": 7,
     "expansion": 5,
-    "uniques": ["Will not build [Missionary] <before the [Renaissance era]>"]
+    "uniques": ["Will not build [Missionary] <before the [Renaissance era]>"],
     "priorities": {
       "Tradition": 12,
       "Liberty": 2,
