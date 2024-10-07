@@ -36,7 +36,7 @@
 		"Gain a free [Enhancer] belief <upon gaining a [Religion Master] unit> <after founding a religion>",
 		"Gain a free [Pantheon] belief <upon founding a Pantheon>",
 		"Gain a free [Pantheon] belief <upon founding a Religion>",
-		"[-50]% Faith cost of generating Great Prophet equivalents",
+		"[-10]% Faith cost of generating Great Prophet equivalents",
 		"Cannot build [Missionary] units"],
                 "cities": ["Toetropolis", "Phalanx", "Tarsopolis", "Metatarsalia", "Hallux Haven", "Little Toe Village", "Bunyan's Borough", "Ingrown Inlet", "Nailton", "Talus Territory"] 
         }
