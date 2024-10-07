@@ -37,7 +37,7 @@
                 "May choose [1] additional [Pantheon] beliefs when [founding] a religion",
 		"Gain a free [Pantheon] belief <upon founding a Pantheon>",
                 "[+1 Faith] [in all cities]",
-		"Gain a free [non-[Pantheon]] belief <upon gaining a [Religion Master] unit> <after founding a religion>"],
+		"Gain a free [non-Pantheon] belief <upon gaining a [Religion Master] unit> <after founding a religion>"],
                 "cities": ["Toetropolis", "Phalanx", "Tarsopolis", "Metatarsalia", "Hallux Haven", "Little Toe Village", "Bunyan's Borough", "Ingrown Inlet", "Nailton", "Talus Territory"] 
         }
 ]
