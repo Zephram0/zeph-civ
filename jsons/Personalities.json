@@ -15,7 +15,7 @@
     "diplomacy": 7,
     "loyal": 7,
     "expansion": 5,
-    "uniques": ["Will not build [Settler] <when number of [military units] is less t"Will not build [Semilitary units] is less t"Willttler] <when number of [military units] is less than [6]>"]han"Will not build [Settler] <when number of [military units] is less than [6]>"] [6]>"],
+    "uniques": ["Will not build [Settler] <when number of [military units] is less than [6]>"],
     "priorities": {
       "Tradition": 12,
       "Liberty": 2,
