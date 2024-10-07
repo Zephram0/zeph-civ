@@ -1,12 +1,12 @@
 [
   {
     "name": "Ze",
-    "production": 9,
+    "production": 10,
     "food": 5,
-    "gold": 7,
-    "science": 6,
-    "culture": 7,
-    "happiness": 8,
+    "gold": 9,
+    "science": 9,
+    "culture": 9,
+    "happiness": 9,
     "faith": 4,
     "military": 10,
     "aggressive": 4,
