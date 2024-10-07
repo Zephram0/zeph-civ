@@ -17,18 +17,18 @@
     "expansion": 8,
     "uniques": ["Will not build [Settler] <when number of [military units] is less than [6]>"],
     "priorities": {
-      "Tradition": 12,
-      "Liberty": 4,
-      "Honor": 3,
+      "Tradition": 7,
+      "Liberty": 5,
+      "Honor": 5,
       "Commerce": 1,
-      "Patronage": 8,
-      "Piety": 13,
-      "Exploration": 11,
+      "Patronage": 1,
+      "Piety": 9,
+      "Exploration": 8,
       "Rationalism": 3,
       "Aesthetics": 2,
-      "Freedom": 9,
-      "Autocracy": 9,
-      "Order": 9
+      "Freedom": 6,
+      "Autocracy": 6,
+      "Order": 6
     }
   }
 ]
