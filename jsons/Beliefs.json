@@ -123,21 +123,6 @@
         ]
     },
     {
-        "name": "Messenger of the Gods",
-        "type": "Pantheon",
-        "uniques": ["[+2 Science, +1 Faith] from each Trade Route"]
-    },
-    {
-        "name": "Mystic Rituals",
-        "type": "Pantheon",
-        "uniques": [
-            "[+1 Culture, +1 Food] from every [Silk]",
-            "[+1 Culture, +1 Food] from every [Dyes]",
-            "[+1 Culture, +1 Food] from every [Perfume]",
-            "[+1 Culture, +1 Food] from every [Tobacco]"
-        ]
-    },
-    {
         "name": "Ocean's Bounty",
         "type": "Pantheon",
         "uniques": [
@@ -185,7 +170,7 @@
         "type": "Pantheon",
         "uniques": [
             "[+1 Culture] from every [Deer]",
-            "[+1 Culture] from every [Bison]"
+            "[+1 Culture] from every [Cattle]"
         ]
     },
     {
@@ -202,9 +187,7 @@
         "type": "Pantheon",
         "uniques": [
             "[+1 Culture] from every [Forest]",
-            "[+1 Culture] from every [Jungle]",
-            "[+1 Culture] from every [Hardwood]",
-            "[+1 Culture] from every [Rubber]"
+            "[+1 Culture] from every [Jungle]"
         ]
     },
     {
@@ -218,7 +201,7 @@
         "uniques": [
             "[+1 Faith] from every [Horses]",
             "[+1 Faith] from every [Deer]",
-            "[+1 Faith] from every [Bison]"
+            "[+1 Faith] from every [Cattle]"
         ]
     },
     {
@@ -237,18 +220,7 @@
         "uniques": [
             "[+1 Production, +1 Faith] from every [Quarry]",
             "[+1 Faith] from every [Marble]",
-            "[+1 Faith] from every [Obsidian]"
-        ]
-    },
-    {
-        "name": "Sun God",
-        "type": "Pantheon",
-        "uniques": [
-            "[+1 Food] from every [Bananas]",
-            "[+1 Food] from every [Citrus]",
-            "[+1 Food] from every [Olives]",
-            "[+1 Food] from every [Cocoa]",
-            "[+1 Food] from every [Coconut]"
+            "[+1 Faith] from every [Stone]"
         ]
     },
     {
