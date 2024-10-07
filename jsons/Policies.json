@@ -154,7 +154,6 @@
             {
                 "name": "Military Tradition",
                 "uniques": [
-                    //"[-20]% Gold cost of upgrading <for [Military] units>",
                     "[+50]% Production when constructing [Courthouse] buildings [in all cities]",
                     "[+3 Production, +3 Gold, +3 Food] from every [Courthouse]",
                     "[+1 Food, +2 Science, +2 Culture] from every [Citadel]"
