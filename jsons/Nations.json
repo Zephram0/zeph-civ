@@ -33,7 +33,8 @@
                 "uniqueName": "Masters of Faith",
 		"uniques": ["[+1 Faith] [in all cities]",
 		"Gain a free [Any] belief <upon gaining a [Religion Master] unit> <after founding a religion>",
-		"[-50]% Faith cost of generating Great Prophet equivalents"],
+		"[-50]% Faith cost of generating Great Prophet equivalents",
+		"Cannot build [Missionary] units"],
                 "cities": ["Toetropolis", "Phalanx", "Tarsopolis", "Metatarsalia", "Hallux Haven", "Little Toe Village", "Bunyan's Borough", "Ingrown Inlet", "Nailton", "Talus Territory"] 
         }
 ]
