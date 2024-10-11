@@ -267,7 +267,6 @@
         "name": "Religious Unity",
         "type": "Founder",
         "uniques": [
-            "[+100]% Natural religion spread [in City-State cities]",
             "Resting point for Influence with City-States following this religion [+45]"
         ]
     },
@@ -430,7 +429,7 @@
         "uniques": ["[+2 Gold, +2 Culture] from every [Great Improvement]"]
     },
     {
-        "name": "Hajj",
+        "name": "Hajj", 
         "type": "Enhancer",
         "uniques": ["[+3 Food, +3 Production, +3 Culture] [in capital]"]
     },
@@ -475,6 +474,11 @@
         "name": "Kotel",
         "type": "Enhancer",
         "uniques": ["[+6 Happiness] [in capital]"]
+    },
+    {
+        "name": "City Worship",
+        "type": "Enhancer",
+        "uniques": ["[+100]% Natural religion spread [in City-State cities]"]
     },
     //Pilgrimage: Gain +4 Faith and +3 Culture for every foreign City that follows this Religion
     //Promised Land: Religion spreads twice as fast to friendly Cities and Cities that already follow this Religion
