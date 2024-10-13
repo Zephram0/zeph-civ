@@ -480,6 +480,16 @@
         "type": "Enhancer",
         "uniques": ["[+100]% Natural religion spread [in City-State cities]"]
     },
+    {
+        "name": "Unified Worship",
+        "type": "Enhancer",
+        "uniques": ["[+100]% Natural religion spread [in cities following our religion]"]
+    },
+    {
+        "name": "True Gospel",
+        "type": "Enhancer",
+        "uniques": ["[+25]% Natural religion spread [in foreign cities]"]
+    },
     //Pilgrimage: Gain +4 Faith and +3 Culture for every foreign City that follows this Religion
     //Promised Land: Religion spreads twice as fast to friendly Cities and Cities that already follow this Religion
     {
