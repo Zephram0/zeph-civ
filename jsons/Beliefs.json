@@ -488,7 +488,7 @@
     {
         "name": "True Gospel",
         "type": "Enhancer",
-        "uniques": ["[+50]% Natural religion spread non-[in cities following our religion]"]
+        "uniques": ["[+50]% Natural religion spread [in cities not following our religion]"]
     },
     {
         "name": "Subtle Influence",
