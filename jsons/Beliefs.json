@@ -12,10 +12,26 @@
         // Alternatively, we could approximate this with "[+15]% Production when constructing [All] wonders [in cities following this religion] <during the [Ancient era]>"
     },
     {
+        "name": "Sanctified Innovations",
+        "type": "Pantheon",
+        "uniques": [
+            "[+1 Faith, +1 Production, +1 Science] from every [National Wonder]"
+        ]
+    },
+    {
         "name": "Ancestor Worship",
         "type": "Pantheon",
         "uniques": [
             "[+2 Culture] from every [Shrine]"
+        ]
+    },
+    {
+        "name": "Swords into Ploughshares",
+        "type": "Pantheon",
+        "uniques": [
+            //Should be for all cities following the religion, but I can't do so as an enhancer
+            "[+20]% growth [in cities following this religion]",
+            "Only available <after adopting [Reformation]>"
         ]
     },
     {
@@ -290,12 +306,31 @@
         "type": "Founder",
         "uniques": ["[+8 Gold] [in capital]"]
     },
+    {
+        "name": "Apostolic Palace",
+        "type": "Founder",
+        "uniques": [
+            "[+5 Production, +5 Gold, +5 Food, +5 Science, +5 Culture, +5 Faith] from every [Grand Temple]",
+            "Only available <after adopting [Reformation]>"
+        ]
+    },
+
 
     ///////////////////////////////////////// Follower beliefs /////////////////////////////////////////
     {
         "name": "Cathedrals",
         "type": "Follower",
         "uniques": ["May buy [Cathedral] buildings for [150] [Faith] [in cities following this religion]"]
+    },
+    {
+        "name": "Sacred Sites",
+        "type": "Follower",
+        "uniques": [
+            "[+2 Gold, +2 Culture, +2 Faith] from every [Cathedral]",
+            "[+2 Gold, +2 Culture, +2 Faith] from every [Mosque]",
+            "[+2 Gold, +2 Culture, +2 Faith] from every [Pagoda]",
+            "Only available <after adopting [Reformation]>"
+        ]
     },
     {
         "name": "Choral Music",
@@ -395,19 +430,12 @@
     },
 
     ////////////////////////////////////// Enhancer beliefs ///////////////////////////////////////
-    {
-        "name": "Apostolic Palace",
-        "type": "Enhancer",
-        "uniques": [
-            "[+5 Production, +5 Gold, +5 Food, +5 Science, +5 Culture, +5 Faith] from every [Grand Temple]",
-            "Only available <after adopting [Reformation]>"
-        ]
-    },
+
     {
         "name": "City of God",
         "type": "Enhancer",
         "uniques": [
-            "[+2 Food, +1 Science] from every [Holy site]",
+            "[+2 Culture, +2 Science, +2 Faith] from every [Holy site]",
             "Free [Great Prophet] appears",
             "Only available <after adopting [Reformation]>"
         ]
@@ -417,21 +445,6 @@
         "type": "Enhancer",
         "uniques": ["[+20]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>"]
         // ToDo: Should only be friendly territory of cities that follow this religion
-    },
-    {
-        "name": "Dharma",
-        "type": "Enhancer",
-        "uniques": ["[+10 Science] from every [Grand Temple]"]
-    },
-    {
-        "name": "Disciples",
-        "type": "Enhancer",
-        "uniques": ["[+2 Gold, +2 Culture] from every [Great Improvement]"]
-    },
-    {
-        "name": "Hajj", 
-        "type": "Enhancer",
-        "uniques": ["[+3 Food, +3 Production, +3 Culture] [in capital]"]
     },
     {
         "name": "Indulgences",
@@ -455,25 +468,10 @@
         ]
     },
     {
-        "name": "Jizya",
-        "type": "Enhancer",
-        "uniques": ["[+6 Production, +6 Gold] from every [Grand Temple]"]
-    },
-    {
         "name": "Just War",
         "type": "Enhancer",
         "uniques": ["[+20]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>"]
         // ToDo: Should only be enemy territory of cities that follow this religion
-    },
-    {
-        "name": "Karma",
-        "type": "Enhancer",
-        "uniques": ["[+8 Culture] [in holy cities]"]
-    },
-    {
-        "name": "Kotel",
-        "type": "Enhancer",
-        "uniques": ["[+6 Happiness] [in capital]"]
     },
     {
         "name": "City Worship",
@@ -498,33 +496,7 @@
     },
     //Pilgrimage: Gain +4 Faith and +3 Culture for every foreign City that follows this Religion
     //Promised Land: Religion spreads twice as fast to friendly Cities and Cities that already follow this Religion
-    {
-        "name": "Sacred Sites",
-        "type": "Enhancer",
-        "uniques": [
-            "[+2 Gold, +2 Culture, +2 Faith] from every [Cathedral]",
-            "[+2 Gold, +2 Culture, +2 Faith] from every [Mosque]",
-            "[+2 Gold, +2 Culture, +2 Faith] from every [Pagoda]",
-            "[+2 Gold, +2 Culture, +2 Faith] from every [Synagogue]",
-            "Only available <after adopting [Reformation]>"
-        ]
-    },
-    {
-        "name": "Sanctified Innovations",
-        "type": "Enhancer",
-        "uniques": [
-            "[+1 Faith, +1 Production, +1 Science] from every [National Wonder]"
-        ]
-    },
-    {
-        "name": "Swords into Ploughshares",
-        "type": "Enhancer",
-        "uniques": [
-            //Should be for all cities following the religion, but I can't do so as an enhancer
-            "[+20]% growth [in cities following this religion]",
-            "Only available <after adopting [Reformation]>"
-        ]
-    },
+
     {
         "name": "Work Ethic",
         "type": "Enhancer",
@@ -543,10 +515,5 @@
             "[+1 Science] from every [4] global followers [in cities following this religion]",
             "Only available <after adopting [Reformation]>"
         ]
-    },
-    {
-        "name": "Unity of the Prophets",
-        "type": "Enhancer",
-        "uniques": ["[+4 Faith, +2 Production] from every [Holy site]"]
     }
 ]
