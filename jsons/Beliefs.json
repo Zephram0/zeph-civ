@@ -491,7 +491,7 @@
     {
         "name": "Subtle Influence",
         "type": "Enhancer",
-        "uniques": ["[-10]% Natural religion spread [in all cities]",
+        "uniques": ["[-5]% Natural religion spread [in all cities]",
                    "Religion naturally spreads to cities [+9] tiles away"]
     },
     //Pilgrimage: Gain +4 Faith and +3 Culture for every foreign City that follows this Religion
