@@ -488,7 +488,8 @@
                    //"[-5]% Natural religion spread [in all cities] <upon entering the [Renaissance era]>",
                    //"Religion naturally spreads to cities [+2] tiles away <upon entering the [Renaissance era]>",
                    //"[-15]% Natural religion spread [in all cities] <upon constructing [Grand Temple]>",
-                   //"Religion naturally spreads to cities [+5] tiles away <upon constructing [Grand Temple]>"]
+                   //"Religion naturally spreads to cities [+5] tiles away <upon constructing [Grand Temple]>"
+        ]
     },
     //Pilgrimage: Gain +4 Faith and +3 Culture for every foreign City that follows this Religion
     //Promised Land: Religion spreads twice as fast to friendly Cities and Cities that already follow this Religion
