@@ -310,7 +310,11 @@
 			},
 			{
 				"name": "Mercenary Army",
-				"uniques": ["May buy [Landsknecht] units with [Gold] for [5] times their normal Production cost"],
+				"uniques": ["May buy [Landsknecht] units with [Gold] for [5] times their normal Production cost",
+					"[+50]% Production when constructing [Market] buildings [in all cities]",
+					"[+50]% Production when constructing [Bank] buildings [in all cities]",
+					"[+50]% Production when constructing [Stock Exchange] buildings [in all cities]",
+				],
 				"row": 1,
 				"column": 4
 			},
