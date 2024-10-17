@@ -1,0 +1,13 @@
+{
+    "constants":
+    {
+        "maxLakeSize": 5,
+        "religionLimitBase": 0,
+        "religionLimitMultiplier": 1,
+        "pantheonBase": 15,
+        "pantheonGrowth": 0,
+        "minimumWarDuration": 15,
+        "naturalWonderCountAddedConstant": 5
+    },
+    "isBaseRuleset": true
+}
