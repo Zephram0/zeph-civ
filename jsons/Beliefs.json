@@ -267,14 +267,6 @@
         "uniques": ["[+100 Gold] when a city adopts this religion for the first time <(modified by game speed)>"]
     },
     {
-        "name": "Messiah",
-        "type": "Founder",
-        "uniques": [
-            "[+25]% Spread Religion Strength <for [Great Prophet] units>",
-            "[-25]% Faith cost of generating Great Prophet equivalents"
-        ]
-    },
-    {
         "name": "Mithraea",
         "type": "Founder",
         "uniques": ["[+1]% [Gold] from every follower, up to [20]%"]
@@ -510,6 +502,14 @@
             "May buy [Windmill] buildings for [320] [Faith] [in cities following this religion]",
             "May buy [Hydro Plant] buildings for [520] [Faith] [in cities following this religion]",
             "Only available <after adopting [Reformation]>"
+        ]
+    },
+    {
+        "name": "Messiah",
+        "type": "Enhancer",
+        "uniques": [
+            "[+25]% Spread Religion Strength <for [Great Prophet] units>",
+            "[-25]% Faith cost of generating Great Prophet equivalents"
         ]
     },
     {
