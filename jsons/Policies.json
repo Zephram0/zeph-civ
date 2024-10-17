@@ -206,50 +206,80 @@
 		]
 	    }
 		]
-	},{
-		"name": "Piety",
-		"era": "Ancient era",
-		"uniques": ["[+100]% Production when constructing [Shrine] buildings [in all cities]", "[+100]% Production when constructing [Temple] buildings [in all cities]", "Unlocks building the Great Mosque of Djenne"],
-		"policies": [
-			{
-				"name": "Organized Religion",
-				"uniques": ["[+1 Faith] from every [Shrine]","[+1 Faith] from every [Temple]"],
-				"row": 1,
-				"column": 2
-			},
-			{
-				"name": "Mandate Of Heaven",
-				"uniques": ["[Faith] cost of purchasing items in cities [-20]%"],
-				"row": 1,
-				"column": 5
-			},
-			{
-				"name": "Theocracy",
-				"uniques": ["[+25]% [Gold] from every [Temple]","[+3 Gold] from every [Holy site]"],
-				"requires": ["Organized Religion"],
-				"row": 2,
-				"column": 1
-			},
-			{
-				"name": "Reformation",
-				"uniques": ["[+33]% [Culture] [in all cities with a world wonder]", "Empire enters golden age"],
-				"requires": ["Organized Religion"],
-				"row": 2,
-				"column": 3
-			},
-			{
-				"name": "Free Religion",
-				"uniques": ["[-10]% Culture cost of adopting new Policies"],
-				"requires": ["Mandate Of Heaven", "Reformation"],
-				"row": 3,
-				"column": 4
-			},
-			{
-				"name": "Piety Complete",
-				"uniques": ["Free [Great Prophet] appears", "[+3 Culture] from every [Holy site]"]
-			}
-		]
 	},
+	{
+        "name": "Piety",
+        "era": "Ancient era",
+        "uniques": [
+            "[+100]% Production when constructing [Temple] buildings [in all cities]",
+            "[+100]% Production when constructing [Shrine] buildings [in all cities]",
+            "[+1 Culture, +1 Faith] [in capital]"
+        ],
+        "policies": [
+            {
+                "name": "Mandate Of Heaven",
+                "uniques": [
+                    "[+1 Happiness] from every [Temple]",
+                    "[+1 Faith] [in capital]",
+                    "[Faith] cost of purchasing items in cities [-20]%"
+                ],
+                "row": 1,
+                "column": 1
+            },
+            {
+                "name": "Organized Religion",
+                "uniques": [
+                    "[+1 Culture, +1 Faith] from every [Shrine]",
+                    "[+1 Culture, +1 Faith] from every [Temple]"
+                ],
+                "row": 1,
+                "column": 3
+            },
+            {
+                "name": "Theocracy",
+                "uniques": [
+                    "[+33]% [Gold] from every [Grand Temple]",
+                    "[+1 Gold] from every [Temple]",
+                    "[+1 Gold] from every [Shrine]",
+                    "[+3 Gold] from every [Holy site]"
+                ],
+                "row": 1,
+                "column": 5
+            },
+            {
+                "name": "Reformation",
+                "uniques": [
+                    "[-15]% Culture cost of natural border growth [in all cities]",
+                    "May choose [1] additional [Enhancer] beliefs when [founding] a religion",
+                    "Gain a free [Enhancer] belief <after founding a religion>"
+                ],
+                "requires": [
+                    "Organized Religion"
+                ],
+                "row": 2,
+                "column": 2
+            },
+            {
+                "name": "Religious Tolerance",
+                "uniques": [
+                    "[+1 Culture, +1 Faith] [in all cities]",
+                    "[+25]% [Science] from every [Grand Temple]",
+                    "[+2 Science] from every [Temple]"
+                ],
+                "requires": ["Organized Religion"],
+                "row": 2,
+                "column": 4
+            },
+            {
+                "name": "Piety Complete",
+                "uniques": [
+                    "Free [Great Prophet] appears",
+                    "[+1 Food, +3 Culture] from every [Holy site]",
+                    "Provides a [Garden] in your first [4] cities for free"
+		]
+            }
+        ]
+    },
 	{
 		"name": "Patronage",
 		"era": "Classical era",
