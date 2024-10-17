@@ -481,7 +481,7 @@
     {
         "name": "Unified Worship",
         "type": "Enhancer",
-        "uniques": ["[+25]% Natural religion spread [in cities following our religion]"]
+        "uniques": ["[+50]% Natural religion spread [in cities following our religion]"]
     },
     {
         "name": "True Gospel",
