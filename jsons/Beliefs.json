@@ -259,7 +259,8 @@
     {
         "name": "Dawah",
         "type": "Founder",
-        "uniques": ["[+4 Culture] [in capital]"]
+        "uniques": ["[+12 Culture] [in capital]",
+                    "Only available <after adopting [Reformation]>"]
     },
     {
         "name": "Initiation Rites",
@@ -275,13 +276,15 @@
         "name": "Religious Unity",
         "type": "Founder",
         "uniques": [
-            "Resting point for Influence with City-States following this religion [+45]"
+            "Resting point for Influence with City-States following this religion [+45]",
+            "Only available <after adopting [Reformation]>"
         ]
     },
     {
         "name": "Salat",
         "type": "Founder",
-        "uniques": ["[+4 Production] [in capital]"]
+        "uniques": ["[+10 Production] [in capital]",
+                    "Only available <after adopting [Reformation]>"]
     },
     {
         "name": "Tithe",
@@ -296,7 +299,9 @@
     {
         "name": "Zakat",
         "type": "Founder",
-        "uniques": ["[+8 Gold] [in capital]"]
+        "uniques": ["[+20 Gold] [in capital]",
+                    "Only available <after adopting [Reformation]>"
+
     },
     {
         "name": "Apostolic Palace",
@@ -476,9 +481,9 @@
         "uniques": ["[+50]% Natural religion spread [in cities following our religion]"]
     },
     {
-        "name": "Forced Conversion",
+        "name": "Religious Force Projection",
         "type": "Enhancer",
-        "uniques": ["[+200]% Natural religion spread [in enemy cities]"]
+        "uniques": ["[+50]% Natural religion spread [in all cities] <when at war>"]
     },
     {
         "name": "Independence Philosophy",
@@ -494,11 +499,6 @@
         "name": "Protectorate Doctrine",
         "type": "Enhancer",
         "uniques": ["[+33]% Natural religion spread [in cities with a garrison]"]
-    },
-    {
-        "name": "True Gospel",
-        "type": "Enhancer",
-        "uniques": ["[+50]% Natural religion spread [in cities not following our religion]"]
     },
     {
         "name": "Subtle Influence",
