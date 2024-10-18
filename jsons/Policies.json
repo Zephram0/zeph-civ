@@ -275,7 +275,9 @@
                 "uniques": [
                     "Free [Great Prophet] appears",
                     "[+1 Food, +3 Culture] from every [Holy site]",
-                    "Provides a [Garden] in your first [4] cities for free"
+                    "Provides a [Garden] in your first [4] cities for free",
+		    "May choose [1] additional [Founder] beliefs when [founding] a religion",
+                    "Gain a free [Founder] belief <after founding a religion>"
 		]
             }
         ]
