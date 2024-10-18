@@ -481,6 +481,16 @@
         "uniques": ["[+200]% Natural religion spread [in enemy cities]"]
     },
     {
+        "name": "Patron of the Sea",
+        "type": "Enhancer",
+        "uniques": ["[+50]% Natural religion spread [in coastal cities]"]
+    },
+    {
+        "name": "Protectorate Doctrine",
+        "type": "Enhancer",
+        "uniques": ["[+33]% Natural religion spread [in cities with a garrison]"]
+    },
+    {
         "name": "True Gospel",
         "type": "Enhancer",
         "uniques": ["[+50]% Natural religion spread [in cities not following our religion]"]
