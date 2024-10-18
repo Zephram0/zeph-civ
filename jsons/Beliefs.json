@@ -481,6 +481,11 @@
         "uniques": ["[+200]% Natural religion spread [in enemy cities]"]
     },
     {
+        "name": "Independence Philosophy",
+        "type": "Enhancer",
+        "uniques": ["[+200]% Natural religion spread [in puppeted cities]"]
+    },
+    {
         "name": "Patron of the Sea",
         "type": "Enhancer",
         "uniques": ["[+50]% Natural religion spread [in coastal cities]"]
