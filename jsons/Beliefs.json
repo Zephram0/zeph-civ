@@ -476,6 +476,11 @@
         "uniques": ["[+50]% Natural religion spread [in cities following our religion]"]
     },
     {
+        "name": "Forced Conversion",
+        "type": "Enhancer",
+        "uniques": ["[+200]% Natural religion spread [in enemy cities]"]
+    },
+    {
         "name": "True Gospel",
         "type": "Enhancer",
         "uniques": ["[+50]% Natural religion spread [in cities not following our religion]"]
