@@ -300,8 +300,7 @@
         "name": "Zakat",
         "type": "Founder",
         "uniques": ["[+20 Gold] [in capital]",
-                    "Only available <after adopting [Reformation]>"
-
+                    "Only available <after adopting [Reformation]>"]
     },
     {
         "name": "Apostolic Palace",
