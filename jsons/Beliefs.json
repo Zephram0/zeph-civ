@@ -310,6 +310,14 @@
             "Only available <after adopting [Reformation]>"
         ]
     },
+        {
+        "name": "Sacred Holy City",
+        "type": "Founder",
+        "uniques": [
+            "[-2 Happiness] [{in enemy cities} {in cities following this religion}]",
+            //"Only available <after adopting [Reformation]>"
+        ]
+    },
 
 
     ///////////////////////////////////////// Follower beliefs /////////////////////////////////////////
